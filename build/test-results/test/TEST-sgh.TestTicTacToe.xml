@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sgh.TestTicTacToe" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-29T00:17:20" hostname="DESKTOP-EQULV8L" time="0.07">
+  <properties/>
+  <testcase name="testTicTacToe()" classname="sgh.TestTicTacToe" time="0.07"/>
+  <system-out><![CDATA[C:\Users\kinga\tictactoe-KingaKow\boards\tick1.csv
+Testing file: boards/tick1.csv
+C:\Users\kinga\tictactoe-KingaKow\boards\tick2.csv
+Testing file: boards/tick2.csv
+C:\Users\kinga\tictactoe-KingaKow\boards\tick3.csv
+Testing file: boards/tick3.csv
+C:\Users\kinga\tictactoe-KingaKow\boards\tick0.csv
+Testing file: boards/tick0.csv
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
